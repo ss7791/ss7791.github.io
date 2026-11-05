@@ -1,6 +1,9 @@
+# MyST build outputs
+_build
+
+# Mac and Jupyter junk
 .DS_Store
 .ipynb_checkpoints/
-_build/
 
 # make sure Labs aren't included
 Lab*.ipynb
